@@ -15,3 +15,12 @@ If you want to change the generated component all you need to do is change the `
 
 # Example
 For example, you if launch the script as ```vue-generate.py HelloVue```, it will create a new file called ```HelloVue.vue``` and import it in the App.vue file. Now you can use the component as ```<HelloVue></HelloVue>``` or ```<hello-vue></hello-vue>```
+
+---
+
+# Contributors
+[regi18](https://github.com/regi18/)
+
+## License
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
