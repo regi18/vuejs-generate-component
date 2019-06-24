@@ -1,4 +1,4 @@
-# Easily create new components in a vue project
+# Easily generates new components in a Vue.js project
 Just execute the script with ```create-component.py <component name>``` (needs to be launched in the project's root folder) to create a new component
 <br><br>
 (it will be added in the components folder and imported in App.vue).
