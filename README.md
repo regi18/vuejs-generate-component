@@ -14,4 +14,4 @@ Just execute the script with ```vue-generate.py <component name>``` to generate 
 If you want to change the generated component all you need to do is change the ```component_template``` string,
 
 # Example
-For example, you if launch the script as ```vue-generate.py HelloVue```, it will create a new file called```HelloVue.vue``` and import it in the App.vue file. Now you can use the component as ```<HelloVue></HelloVue>``` or ```<hello-vue></hello-vue>```
+For example, you if launch the script as ```vue-generate.py HelloVue```, it will create a new file called ```HelloVue.vue``` and import it in the App.vue file. Now you can use the component as ```<HelloVue></HelloVue>``` or ```<hello-vue></hello-vue>```
