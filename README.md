@@ -18,7 +18,7 @@ For example, you if launch the script as ```vue-generate.py HelloVue```, it will
 
 ---
 
-# Contributors
+## Contributors
 [regi18](https://github.com/regi18/)
 
 ## License
